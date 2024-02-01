@@ -1,0 +1,13 @@
+body{
+    background-color: black ;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+a{
+    color: #117a37;
+
+}
+
+h1, h2, p{
+    color: #ffff;
+}
