@@ -1,0 +1,55 @@
+body{
+    background-color: #398CBF;
+    
+}
+
+.container{
+    position: relative;
+   
+    width: 450px;
+    height: 450px;
+   left: 50%;
+   top: 20vh;
+ 
+   transform: translate(-50%);
+  
+
+}
+
+
+.head{
+    background-color: #F9CAAC;
+    position: absolute;
+    height: 300px;
+    width:300px;
+    left: 50%;
+    top: 50%;
+   transform: translate(-50%, -50%);
+   border-radius: 50%;
+   z-index: 2 !important;
+
+}
+
+.ear{
+    position: relative;
+    background-color: black;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    z-index: 0;
+
+
+
+}
+
+.ear1{
+    top: -110px;
+    left: -70px;
+
+}
+
+.ear2{
+    top: -310px;
+    left: 170px;
+
+}
